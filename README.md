@@ -29,5 +29,5 @@ The script calculates a score based on the following rules:
 - **Moderate**: Score of 3-5
 - **Weak**: Score < 2
 
-If a password is found in a banned list, it is rejected immediately. In my first iteration, the strong score was a 4, moderate was a 3, and weak was a 2. I edited the range to give it a more realistic evaluation for passwords. Also at first I did not have a ban list of common passowrds, and added that once I was done with the main parts of the password checker. To enhance this project even more, I could include a larger list of either common passwords or passwords that have interations of the word "password" in them. As my first project on Github, this was satisfying to complete.
+If a password is found in a banned list, it is rejected immediately. In my first iteration, the strong score was a 4, moderate was a 3, and weak was a 2. I edited the range to give it a more realistic evaluation for passwords. Also at first I did not have a ban list of common passowrds, and added that once I was done with the main parts of the password checker. To enhance this project even more, I could include a larger list of either common passwords or passwords that have interations of the word "password" in them. As my first project on Github, this was satisfying to complete. edit edit
 
