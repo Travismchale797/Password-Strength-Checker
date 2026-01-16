@@ -5,7 +5,7 @@ This Python script allows users to test the strength of their passwords based on
  Features
 
 - Checks for minimum password length (>= 8 characters)
-- Evaluates presence of: tesgin testing 
+- Evaluates presence of:  
 - Uppercase letters
 - Lowercase letters
 - Numbers
