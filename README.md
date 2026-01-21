@@ -14,7 +14,7 @@ This Python script allows users to test the strength of their passwords based on
 - Gives strength rating: `Strong`, `Moderate`, or `Weak`
 - Rejects insecure passwords like `"password"`, `"123456"`, etc.
 
- How It Works testing
+ How It Works 
 
 The script calculates a score based on the following rules:
 
