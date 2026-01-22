@@ -2,7 +2,7 @@
 
 This Python script allows users to test the strength of their passwords based on multiple criteria such as length, character variety, and presence on a banned list. It provides real-time feedback on whether the password is **Strong**, **Moderate**, or **Weak**.
 
- Features
+ Features tesgin teetin
 
 - Checks for minimum password length (>= 8 characters)
 - Evaluates presence of:  
