@@ -16,7 +16,7 @@ This Python script allows users to test the strength of their passwords based on
 
  How It Works 
 
-The script calculates a score based on the following rules:
+The script calculates a score based on the following rules: testgin testing 
 
 | Criteria              | Score |
 |-----------------------|-------|
